@@ -56,7 +56,7 @@
 
 ## 📌 Projetos
 
-- 🔹 [Página Inicial do YouTube](#)
+- 🔹 [Página Inicial do YouTube](https://github.com/mkdevelop3r/Clone-Youtube.git)
 - 🔹 [Página Inicial do Airbnb](https://github.com/mkdevelop3r/Clone-Airbnb.git)
 - 🔹 [Portfólio pessoal (em desenvolvimento)](#)
 
