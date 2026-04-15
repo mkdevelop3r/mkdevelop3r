@@ -6,7 +6,7 @@
 
 - 💻 Tenho experiência prática com **HTML, CSS e JavaScript**
 - 🧠 Atualmente estudando **Node.js, TypeScript e React**
-- 🏫 Cursando **Análise e Desenvolvimento de Sistemas** (EAD - Grau Técnico)
+- 🏫 Cursando **Análise e Desenvolvimento de Sistemas** (Estacio)
 - 📚 Aprimorando habilidades com projetos pessoais, versionamento com Git e boas práticas de código
 - 🎯 Buscando minha primeira oportunidade como **Desenvolvedor Júnior** (Front-End ou Full Stack em formação)
 
