@@ -68,5 +68,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/miqueias-oliveira)
 
 ---
-
-⭐ Vamos codar e evoluir juntos!
