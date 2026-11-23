@@ -1,70 +1,20 @@
-# 👋 Olá, eu sou Miquéias Oliveira
+# Oi, eu sou o Miquéias 👋
 
-🎯 Desenvolvedor Front-End em formação, apaixonado por transformar ideias em interfaces bonitas, funcionais e responsivas.
+Desenvolvedor Full Stack Júnior em Salvador, Bahia. Construo os sistemas internos, as integrações e as automações da Febracis Salvador, e curso Análise e Desenvolvimento de Sistemas na Estácio.
 
-## 🚀 Sobre mim
+Gosto de entender o problema de quem vai usar antes de escrever a primeira linha de código.
 
-- 💻 Tenho experiência prática com **HTML, CSS e JavaScript**
-- 🧠 Atualmente estudando **Node.js, TypeScript e React**
-- 🏫 Cursando **Análise e Desenvolvimento de Sistemas** (Estacio)
-- 📚 Aprimorando habilidades com projetos pessoais, versionamento com Git e boas práticas de código
-- 🎯 Buscando minha primeira oportunidade como **Desenvolvedor Júnior** (Front-End ou Full Stack em formação)
+## No que estou trabalhando
 
-## 🛠️ Tecnologias
+- **[FebraHub](https://github.com/mkdevelop3r/FebraHub)**: central de dados que substituiu os dashboards de Power BI da empresa. React + Vite, Supabase (Postgres com RLS) e ETLs em Python que sincronizam Salesforce, Sympla e CisPay.
+- **VeloFunil**: CRM B2B em Next.js, TypeScript e Supabase (em desenvolvimento).
+- **Sistema de estoque**: importa notas fiscais em XML e controla entradas e saídas por código de barras.
 
+## O que uso no dia a dia
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miqueiasoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miqueiasoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+JavaScript · TypeScript · React · Next.js · Node.js · Python · SQL/Postgres · Supabase · n8n · Docker · GitHub Actions
 
-###
+## Fale comigo
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/miqueias.analytics" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/miqu%C3%A9ias-oliveira-305495248" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-
-## 📌 Projetos
-
-- 🔹 [Página Inicial do YouTube](https://github.com/mkdevelop3r/Clone-Youtube.git)
-- 🔹 [Página Inicial do Airbnb](https://github.com/mkdevelop3r/Clone-Airbnb.git)
-- 🔹 [Portfólio pessoal (em desenvolvimento)](#)
-
-*(Adicione os links reais dos seus repositórios acima)*
-
-## 📫 Contato
-
-- 📧 Email: dmiqueias635@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/miqueias-oliveira)
-
----
+- LinkedIn: https://www.linkedin.com/in/miqu%C3%A9ias-oliveira-305495248/
+- E-mail: dmiqueias635@gmail.com
